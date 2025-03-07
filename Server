@@ -1,0 +1,3 @@
+git add
+git commit -m "Initial commit for a webhosting server
+git push origin main
