@@ -1,0 +1,3 @@
+git remote add origin http
+git branch -M gh-pages
+git push -u origin gh-pages
